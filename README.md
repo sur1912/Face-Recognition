@@ -1,7 +1,7 @@
 # Face-Recognition
 In order to perform face recognition with opencv i installed two additional libraries:-
-dlib
-face_recognition
+1)dlib
+2)face_recognition
 
 So i have applied face recognition on the dataset it will:-
 1) Create the 128-d embeddings for each face in the dataset
